@@ -164,7 +164,13 @@ footer p {
     100% { transform: rotate(360deg); }
 }
 
-/* Hide loader when content is loaded */
 .loaded .loader-wrapper {
     display: none;
+}
+
+#galleryOpening a{
+    margin-left: 20%;
+    width:80%;
+    background-color:black;
+
 }
