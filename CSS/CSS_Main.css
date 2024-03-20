@@ -75,7 +75,7 @@ footer{
     transform: translateY(0);
 }*/
 .parallax {
-    background-image: url("../images/hairCut.jpg");
+    background-image: url("../images/shop.jpg");
     min-height: 400px;
     background-attachment: fixed;
     background-position: center;
